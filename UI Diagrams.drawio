@@ -1,0 +1,145 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="tjFfX3ctZkn2wh5e0eiN">
+    <mxGraphModel dx="3854" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-53" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="-2220" y="2318" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#62B6CB;gradientColor=#225D81;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="-290" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#225D81;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="200" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="95" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#225D81;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;➤&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="770" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-24" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="-290" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-18" parent="E04j3Qfa89OkFJJNQWnB-24" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#225D81;gradientColor=#62B6CB;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-19" parent="E04j3Qfa89OkFJJNQWnB-24" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#225D81;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-20" parent="E04j3Qfa89OkFJJNQWnB-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFEBFD;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="385" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-22" parent="E04j3Qfa89OkFJJNQWnB-24" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="130" width="990" x="270" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-23" parent="E04j3Qfa89OkFJJNQWnB-24" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#225D81;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;➤&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1060" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-25" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#62B6CB;gradientColor=#225D81;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="1640" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#225D81;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="2130" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#072848;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="2025" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#072848;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="130" width="990" x="1910" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#225D81;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;➤&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="2700" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-31" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="1640" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-32" parent="E04j3Qfa89OkFJJNQWnB-31" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#225D81;gradientColor=#62B6CB;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-33" parent="E04j3Qfa89OkFJJNQWnB-31" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#225D81;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-34" parent="E04j3Qfa89OkFJJNQWnB-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="385" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-36" parent="E04j3Qfa89OkFJJNQWnB-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#000000;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="130" width="990" x="270" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-37" parent="E04j3Qfa89OkFJJNQWnB-31" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#225D81;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;➤&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="60" x="1060" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-35" edge="1" parent="E04j3Qfa89OkFJJNQWnB-31" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#FFEBFD;opacity=50;opacityGroup=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-3861" y="626" as="sourcePoint" />
+            <mxPoint x="-2331" y="626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="190" width="990" x="-20" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-42" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=default;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="1530" width="1530" x="-2220" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="-1835" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="-1730" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-48" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="-1150" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="190" width="990" x="-1950" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-50" edge="1" parent="1" source="E04j3Qfa89OkFJJNQWnB-48" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="E04j3Qfa89OkFJJNQWnB-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1150" y="855" as="sourcePoint" />
+            <mxPoint x="-1100" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-52" edge="1" parent="1" source="E04j3Qfa89OkFJJNQWnB-48" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="E04j3Qfa89OkFJJNQWnB-48" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1110" y="860" as="sourcePoint" />
+            <mxPoint x="-1060" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;h1&gt;&lt;font style=&quot;font-size: 60px;&quot;&gt;The Game Warden&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="760" x="-1835" y="2364" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=none;fontColor=#DDC8DD;align=left;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Enter URL&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="550" x="-1730" y="2568" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="-1150" y="2568" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;The Game Warden is a phishing detection tool that uses a locally &lt;br&gt;downloaded database to help identify what could be a phishing scam.&lt;/font&gt;&lt;/pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;pre&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;Copy the URL into the text box above and press the &lt;br&gt;enter button to see the risks.&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="190" width="990" x="-1950" y="2678" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-58" edge="1" parent="1" source="E04j3Qfa89OkFJJNQWnB-56" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="E04j3Qfa89OkFJJNQWnB-56" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1150" y="2623" as="sourcePoint" />
+            <mxPoint x="-1100" y="2573" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-59" edge="1" parent="1" source="E04j3Qfa89OkFJJNQWnB-56" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="E04j3Qfa89OkFJJNQWnB-56" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-1110" y="2628" as="sourcePoint" />
+            <mxPoint x="-1060" y="2578" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#F2DFF0;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="230" width="1410" x="-2160" y="3000" as="geometry" />
+        </mxCell>
+        <mxCell id="E04j3Qfa89OkFJJNQWnB-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;fillColor=#FFEBFD;opacity=50;opacityGroup=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2221" y="3270" as="sourcePoint" />
+            <mxPoint x="-691" y="3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
